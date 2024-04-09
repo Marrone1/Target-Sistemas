@@ -17,7 +17,7 @@
 
   
 
-Ao final do processamento, qual será o valor da variável SOMA? [91](Exs/Ex 1/Ex 1.py)
+Ao final do processamento, qual será o valor da variável SOMA? [91](Ex 1.py)
 
   
 
