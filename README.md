@@ -56,7 +56,10 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 
 Temos três interruptores: 1, 2, 3.
 Acendemos o 1 e 2, e vemos a sala. Anotamos as lâmpadas acesas. 
-Depois acendemos o 1 e o 3: a lâmpada que permaneceu acesa é o 1; a lâmpada que apagou é o 2; a lâmpada que não estava acesa de primeira e agora está é a 3.
+Depois acendemos o 1 e o 3: 
+- a lâmpada que permaneceu acesa é o 1;
+- a lâmpada que apagou é o 2;
+- a lâmpada que não estava acesa de primeira e agora está é a 3.
 
 
 5) Escreva um programa que inverta os caracteres de um string. 
