@@ -28,8 +28,8 @@ Ao final do processamento, qual será o valor da variável SOMA? [91](https://gi
 IMPORTANTE:  
 
 	Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código; 
-
-[Resposta](Exs/Ex 2/Ex 2.py)   
+[
+Resposta](https://github.com/Marrone1/Target-Sistemas/blob/main/Exs/Ex%202/Ex%202.py)
 
 3) Descubra a lógica e complete o próximo elemento:  
 
@@ -68,4 +68,4 @@ IMPORTANTE:
 
 	b) Evite usar funções prontas, como, por exemplo, reverse; 
 
-[Resposta](Exs/Ex 5/Ex 5.py)
+[Resposta](https://github.com/Marrone1/Target-Sistemas/blob/main/Exs/Ex%205/Ex%205.py)
